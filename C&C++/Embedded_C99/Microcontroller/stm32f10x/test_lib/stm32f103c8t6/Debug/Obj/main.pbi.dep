@@ -1,6 +1,6 @@
 main.pbi: \
-  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\include\led.h \
-  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\driver\include\gpio.h \
-  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\0_Common\0_include\define.h \
+  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\test_lib\stm32f103c8t6\source\main.c \
   C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\driver\include\rcc.h \
-  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\test_lib\stm32f103c8t6\source\main.c
+  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\0_Common\0_include\define.h \
+  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\driver\include\gpio.h \
+  C:\Users\thinh\OneDrive\Máy\ tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\0_include\led.h

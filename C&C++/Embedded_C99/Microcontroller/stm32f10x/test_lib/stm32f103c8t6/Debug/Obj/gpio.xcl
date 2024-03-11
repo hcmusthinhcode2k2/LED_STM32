@@ -18,7 +18,7 @@ C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontrol
 -I
 C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\test_lib\stm32f103c8t6\include
 -I
-C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\include
+C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\0_include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
 -I
@@ -32,7 +32,7 @@ C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontrol
 -I
 C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\stm32f10x\test_lib\stm32f103c8t6\include
 -I
-C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\include
+C:\Users\thinh\OneDrive\Máy tính\lib_stm32f103\C&C++\Embedded_C99\Microcontroller\1_Application\0_include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

@@ -23527,7 +23527,7 @@
     "location": {
       "column": "9",
       "line": "2",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "_LED_H_",
     "origin": "user_include",
@@ -23541,7 +23541,7 @@
     "location": {
       "column": "9",
       "line": "5",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "members": [
       {
@@ -23552,7 +23552,7 @@
         "location": {
           "column": "17",
           "line": "7",
-          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
         },
         "name": "IsOn",
         "origin": "user_include",
@@ -23566,7 +23566,7 @@
         "location": {
           "column": "17",
           "line": "8",
-          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
         },
         "name": "Times",
         "origin": "user_include",
@@ -23580,7 +23580,7 @@
         "location": {
           "column": "17",
           "line": "9",
-          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
         },
         "name": "EdgeTime",
         "origin": "user_include",
@@ -23594,7 +23594,7 @@
         "location": {
           "column": "17",
           "line": "10",
-          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
         },
         "name": "CountEdgeTime",
         "origin": "user_include",
@@ -23608,7 +23608,7 @@
         "location": {
           "column": "2",
           "line": "11",
-          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+          "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
         },
         "name": "Led_TypeDef",
         "origin": "user_include",
@@ -23627,7 +23627,7 @@
     "location": {
       "column": "6",
       "line": "13",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "Led_Begin",
     "origin": "user_include",
@@ -23641,7 +23641,7 @@
     "location": {
       "column": "6",
       "line": "13",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "Led_Begin",
     "origin": "user_include",
@@ -23655,7 +23655,7 @@
     "location": {
       "column": "6",
       "line": "14",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "Led_Process",
     "origin": "user_include",
@@ -23669,7 +23669,7 @@
     "location": {
       "column": "6",
       "line": "14",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "Led_Process",
     "origin": "user_include",
@@ -23683,7 +23683,7 @@
     "location": {
       "column": "6",
       "line": "15",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "led_Blink",
     "origin": "user_include",
@@ -23697,7 +23697,7 @@
     "location": {
       "column": "6",
       "line": "15",
-      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\include\\led.h"
+      "path": "C:\\Users\\thinh\\OneDrive\\M\u00e1y t\u00ednh\\lib_stm32f103\\C&C++\\Embedded_C99\\Microcontroller\\1_Application\\0_include\\led.h"
     },
     "name": "led_Blink",
     "origin": "user_include",
